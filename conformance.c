@@ -15,7 +15,7 @@
  */
 
 #define SD_IMPLEMENTATION
-#include "markdown.h"
+#include "sd_markdown.h"
 
 #include <errno.h>
 #include <stdio.h>
