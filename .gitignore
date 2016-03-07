@@ -3,3 +3,5 @@ libsundown.so*
 sundown
 smartypants
 *.exe
+build/
+build.bat
